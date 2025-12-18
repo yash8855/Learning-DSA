@@ -1,2 +1,7 @@
-# Learning-DSA
-This repository contains my learning journey of Data Structures and Algorithms, with topic-wise implementations and problem-solving code.
+# Learning DSA
+
+This repository contains the code I am learning while studying
+Data Structures and Algorithms.
+
+Language: C++
+Topics: Basics, Arrays, Strings, Linked List, Stack, Queue, Recursion
