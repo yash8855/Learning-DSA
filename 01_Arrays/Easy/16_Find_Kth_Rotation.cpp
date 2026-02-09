@@ -12,4 +12,4 @@ class Solution {
         // array already sorted (no rotation)
         return 0;
     }
-};
+}; 
